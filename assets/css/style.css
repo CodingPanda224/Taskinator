@@ -41,7 +41,7 @@ li {
 form {
   display: flex;
   align-items: flex-end;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
 }
 
 form input {
